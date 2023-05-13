@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on XenCantCode</title>
+    <link>https://xencantcode.github.io/posts/</link>
+    <description>Recent content in Posts on XenCantCode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>XenCantCode</copyright>
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://xencantcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Me</title>
+      <link>https://xencantcode.github.io/posts/contactme/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xencantcode.github.io/posts/contactme/</guid>
+      <description>XenCantCode - Contact Info:
+Email: xencantcode@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Downloads Page</title>
+      <link>https://xencantcode.github.io/posts/downloads/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xencantcode.github.io/posts/downloads/</guid>
+      <description>Xen Development - Downloads:
+Free Google Drive: https://bit.ly/xenfree
+Paid Google Drive: https://bit.ly/xenpaid</description>
+    </item>
+    
+  </channel>
+</rss>
